@@ -12,7 +12,7 @@ I'm Muhid Shaikh, a passionate web developer from Mumbai, India.
 - ⚡ Fun fact: Coding has over 700 languages!
 
 ##connect with me :- 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhid-shaikh/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhid-shaikh-67b987199/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/shaikh_muhid)
 
 
