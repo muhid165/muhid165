@@ -21,7 +21,7 @@ I'm Muhid Shaikh, a passionate web developer from Mumbai, India.
 
 
 
-<a href="" target="_blank"><img src="![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)" width="150" height="40"></a>
+<a href="https://github.com/muhid165" target="_blank"><img src="![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)" width="150" height="40"></a>
 
 
 
