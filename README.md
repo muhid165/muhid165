@@ -17,7 +17,7 @@ I'm Muhid Shaikh, a passionate web developer from Mumbai, India.
 <a href="https://twitter.com/shaikh_muhid" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" width="150" height="40"></a>
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhid165&show_icons=true)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=muhid165&count_private=true&show_icons=true&include_all_commits=true&theme=nightowl)
 
 
 
