@@ -12,11 +12,14 @@ I'm Muhid Shaikh, a passionate web developer from Mumbai, India.
 - ⚡ Fun fact: Coding has over 700 languages!
 
 ## Connect with me :- 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhid-shaikh-67b987199/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/shaikh_muhid)
+
+<a href="https://www.linkedin.com/in/muhid-shaikh-67b987199/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" width="150" height="40"></a>
+<a href="https://twitter.com/shaikh_muhid" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" width="150" height="40"></a>
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhid165&show_icons=true)
+
+
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
