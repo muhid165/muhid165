@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently learning advanced JavaScript and AWS<br>I’m looking to collaborate on open-source projects<br>I’m presently learning advanced JavaScript and AWS<br>Ask me about web development, AI, and cloud computing<br>How to reach me: shaikhmuhid165@gmail.com<br>Fun fact: Coding has over 700 languages!
+I’m currently learning advanced JavaScript and AWS<br>I’m looking to collaborate on open-source projects<br>Ask me about web development, AI, and cloud computing<br>How to reach me: shaikhmuhid165@gmail.com<br>Fun fact: Coding has over 700 languages!
 
 
 ## 🌐 Socials:
