@@ -2,8 +2,8 @@
 I’m currently learning advanced JavaScript and AWS<br>I’m looking to collaborate on open-source projects<br>Ask me about Backend Development, web development, AI, and cloud computing<br>How to reach me: shaikhmuhid165@gmail.com<br>Fun fact: Coding has over 700 languages!
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mr_nobody383) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhid-shaikh-67b987199/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/shaikh_muhid)
+## 🌐 Socials:https:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/its_abdul_mueed_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhid-shaikh-67b987199/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/shaikh_muhid)
 [![Roadmap.sh](https://img.shields.io/badge/Roadmap-000000?style=flat&logo=roadmap.sh&logoColor=white)](https://roadmap.sh/u/muhid)
 
 # 💻 Tech Stack:
